@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShakiraTech
+- 👋 Hi, I’m @SBTech
 - 👀 I’m interested in web developmeny, software devlpment, cybersecurity, and smart contracts.  
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Python and Solidity 
